@@ -1,3 +1,5 @@
+<h2> Hi! <h2>
+
 <h2> 💻 tech 💻 </h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
